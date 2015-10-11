@@ -1,0 +1,3 @@
+USA, 14.11.15, 9, Plane, None;
+Japan, 20.1.16, 12, Plane, BrekfastOnly;
+Russia, 28.12.15, 5, Train, All
